@@ -32,9 +32,9 @@ This was not the original case when writing his character however not long after
 
 Ok to preface this, the origins for this character ahs changed like 12 times so i dont know if what im gonna write will be cohesive across every story.
 
-As a child he grew up in poverty, family only able to afford just enough food to feed him and his siblings, His parents were neglectfull btu fullfilled everything required of them, At age 13 He chose to start researching magic, He learned how to create fire to keep the family warm in the winter and grow crops without fertilizer, 
+As a child he grew up in poverty, family only able to afford just enough food to feed him and his siblings, His parents were neglectful btu fulfilled everything required of them, At age 13 He chose to start researching magic, He learned how to create fire to keep the family warm in the winter and grow crops without fertilizer, 
 
-He couldnt profit off this so around age 15 he left his family in search of what people called "[[The end\|The end]]" a dimension of infinite riches, the way to get to it was lost to time, He spent a few years researching dimensional teleportation and gathering the materials required, 
+He couldnt profit off this so around age 15 he left his family in search of what people called "[[Universes/External/The end\|The end]]" a dimension of infinite riches, the way to get to it was lost to time, He spent a few years researching dimensional teleportation and gathering the materials required, 
 
 Finally at age 18 he manages to actually make it to The end, But it was a one way trip, He was stuck there for years learning from the native creatures what to eat and how to live since there was no light his skin grew pale and his hair lightened. 
 

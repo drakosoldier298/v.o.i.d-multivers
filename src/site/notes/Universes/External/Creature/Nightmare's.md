@@ -3,7 +3,7 @@
 ---
 
 
-an extremly early creature concept with heavy inspiration from an old minecraft roleplay called [The Haunting](https://www.youtube.com/playlist?list=PLMIih0GGEVFwGvm4Nos5D87nx21QO0whn) There are 2 subvariants for these that will be described here.
+an extremely early creature concept with heavy inspiration from an old minecraft roleplay called [The Haunting](https://www.youtube.com/playlist?list=PLMIih0GGEVFwGvm4Nos5D87nx21QO0whn) There are 2 subvariants for these that will be described here.
 
 # Normal nightmares
 
@@ -15,6 +15,7 @@ These creatures are created when someone accidently or purposefully destroys the
 - never looking like the original species, most of the time incomprehensible from the original.
 - multiple limbs that the original creature wouldnt have had,
 - anywhere from 1 to 10 feet tall.
+  
 ## Abilities
 - Teleportation for up to 80 meters
 - slight reality warping allowing them to create small objects most of the time food.
