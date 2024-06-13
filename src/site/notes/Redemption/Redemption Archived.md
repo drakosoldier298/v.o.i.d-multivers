@@ -10,4 +10,4 @@ if my typing slurs its likely because i was crying as i typed
 [[Redemption/Original story\|Original story]]
 [[Redemption/Original notes pt1\|Original notes pt1]]
 [[Redemption/Original notes pt2- how do the gods work\|Original notes pt2- how do the gods work]]
-
+[[Original characters\|Original characters]]
