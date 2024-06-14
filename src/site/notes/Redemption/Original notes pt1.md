@@ -54,7 +54,7 @@ Nature (the art whereby God hath made and governs the world) is by the art of ma
 #### Why the Archons Fell
 - Dae
 - Mek
-- Tried to travel to another world and “fell” in the process
+	- Tried to travel to another world and “fell” in the process
 - Antiquor
 - Squishy
   

@@ -12,4 +12,4 @@ Owner Writer And maintainer of this website is [Daedreus/Xaeleus](https://daedre
 -   [[Character index\|Character index]]
 -   [[Universe index\|Universe index]]
 -   [[God index\|God index]]
--  
+-  [[Redemption/Redemption Archived\|Redemption Archived]]
