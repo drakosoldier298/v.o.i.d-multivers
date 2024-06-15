@@ -19,7 +19,7 @@ These creatures are created when someone accidently or purposefully destroys the
 ### Example  
 ###### Meet Billiam 
 
-![Billiam.png](/img/user/Assetssss/Billiam.png)
+![Billiam.png](/img/user/Redemption/Billiam.png)
 ## Abilities
 - Teleportation for up to 80 meters
 - slight reality warping allowing them to create small objects most of the time food.
