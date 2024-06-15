@@ -1,32 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/redemption/reworked/redemption/"}
+{"dg-publish":true,"permalink":"/redemption/reworked/cities/"}
 ---
 
-
-## World building
-
-###  Continents
-Kyrenthia 
--  Large continent that takes 2 weeks to go from top to bottom and 5 days from one side to the other. 
-- Has a capital of the same name
-- Has multiple towns and cities
-- 10 towns
-- 5 cities
-Marona
- - Small set of islands of the west coast of Kyrenthia
- - Has 2 capitals
- - 4 cities
- - Mostly rich folk
- - Thieves come here hoping to make rich quick
- - Each island connected by mage teleporters in towns
-
-### Cities
-[[Redemption/Reworked/Cities\|Cities]]
 Kyrenthia
  - Kyrenthia 
-	-  Trading hub
-	- Filled with guilds 
-	- Wood working is one of the biggest sellers here, As well as nails from blacksmiths
+   A large city which can take someone 2 hours to go from one side to the other.
+   You can find anything from jewelers to carpenters but the most popular is Wood wroking, such as decorative shields, Chairs, Armor stands and more.
+   
+   You can find just about every Guild on the continent has setup a guild house here, From adventurers guilds like x,y,z To fishing guilds like x,y. Any job you want theres a group for it here!
+   
+   Plenty of housing from dirt cheap slums to expensive mansions.
 - Nirthna
 	- Said Nur TH Nuh
 	- Blacksmith city.
@@ -43,6 +26,7 @@ Kyrenthia
 	- Eerily sweet townsfolk
 	-  Something is clearly wrong here
 - Rinthnei
+	 An ancient abandoned Kingdom on the eastern side of Kyrenthia, 
 	- An abandoned Kingdom East of kyrenthia
 	- Chunks of the kingdom have been drug into the sky by a massive tree
 	- Some say you can still hear the cries of somone who lost their love one in this kingdom
@@ -54,4 +38,3 @@ Morona
 	- Does the trading with Vrik
 	- Oddly isnt big on fishing, Mostly Carpentry
 	- Imports fish and other goods and sells furniture, Boats, And repairs
- - 
