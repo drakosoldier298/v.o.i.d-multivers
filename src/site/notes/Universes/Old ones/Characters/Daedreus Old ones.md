@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/universes/old-ones/characters/daedreus-old-ones/"}
+{"dg-publish":true,"permalink":"/universes/old-ones/characters/daedreus-old-ones/","created":"2024-06-13T15:03:31.832-05:00","updated":"2024-06-13T15:16:54.374-05:00"}
 ---
 
 The first concept character of this multiverse.

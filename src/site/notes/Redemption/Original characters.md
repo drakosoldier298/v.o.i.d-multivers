@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/redemption/original-characters/"}
+{"dg-publish":true,"permalink":"/redemption/original-characters/","created":"2024-06-13T17:34:02.961-05:00","updated":"2024-06-13T17:47:15.765-05:00"}
 ---
 
 ## gods 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/character-index/"}
+{"dg-publish":true,"permalink":"/character-index/","created":"2024-06-11T11:14:41.813-05:00","updated":"2024-06-13T14:58:47.172-05:00"}
 ---
 
 ## Groups

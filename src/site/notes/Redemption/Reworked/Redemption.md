@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/redemption/reworked/redemption/"}
+{"dg-publish":true,"permalink":"/redemption/reworked/redemption/","created":"2024-06-13T23:37:43.489-05:00","updated":"2024-06-14T00:13:04.188-05:00"}
 ---
 
 

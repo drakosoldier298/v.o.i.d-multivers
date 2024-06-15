@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/universes/old-ones/characters/kamma/"}
+{"dg-publish":true,"permalink":"/universes/old-ones/characters/kamma/","created":"2024-06-13T14:58:48.513-05:00","updated":"2024-06-13T15:00:13.754-05:00"}
 ---
 
 This character is owned By [Dj_squishy](https://twitter.com/DangleTTV) I was given permission back in early 2022 to use this character in these stories, the events and character have been modified to fit better into my version of the multiverse. I would be working with the creator for the modifications if i still had contact.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/redemption/original-notes-pt2-how-do-the-gods-work/"}
+{"dg-publish":true,"permalink":"/redemption/original-notes-pt2-how-do-the-gods-work/","created":"2024-06-13T17:32:12.495-05:00","updated":"2024-06-13T17:32:31.444-05:00"}
 ---
 
 **This next part was written solely by Antiquor who barely remembers writing it**

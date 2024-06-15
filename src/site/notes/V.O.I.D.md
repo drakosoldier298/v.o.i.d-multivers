@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/v-o-i-d/"}
+{"dg-publish":true,"permalink":"/v-o-i-d/","created":"2024-06-11T11:29:57.052-05:00","updated":"2024-06-11T17:52:13.788-05:00"}
 ---
 
  Visualization Of Infinite Destinies.

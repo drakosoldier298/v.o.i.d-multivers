@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/redemption/original-notes-pt1/"}
+{"dg-publish":true,"permalink":"/redemption/original-notes-pt1/","created":"2024-06-13T17:32:46.214-05:00","updated":"2024-06-13T17:48:02.889-05:00"}
 ---
 
 Nature (the art whereby God hath made and governs the world) is by the art of man, as in many other things, so in this also imitated, that it can make an artificial animal. For seeing life is but a motion of limbs, the beginning whereof is in some principle part within, why may we not say that all automata (engines that move themselves with springs and wheels as doth a watch) have artificial life?

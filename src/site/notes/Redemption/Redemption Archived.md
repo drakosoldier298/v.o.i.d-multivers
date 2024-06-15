@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/redemption/redemption-archived/"}
+{"dg-publish":true,"permalink":"/redemption/redemption-archived/","created":"2024-06-13T16:49:32.048-05:00","updated":"2024-06-13T17:33:52.825-05:00"}
 ---
 
 So this is a very very different note and is not going to be entirely accurate as the full story and everything in this hurts to read because of the emotions and messages and people tied to the original writing and project. This was originally intended to be separate from the Multiverse but i decided to tie it in at one point.

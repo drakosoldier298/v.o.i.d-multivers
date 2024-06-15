@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/universes/external/creature/nightmare-s/"}
+{"dg-publish":true,"permalink":"/universes/external/creature/nightmare-s/","created":"2024-06-13T15:04:17.957-05:00","updated":"2024-06-15T12:11:09.540-05:00"}
 ---
 
 
@@ -18,8 +18,7 @@ These creatures are created when someone accidently or purposefully destroys the
 
 ### Example  
 ###### Meet Billiam 
-
-![Billiam.png](/img/user/Assetssss/Billiam.png)
+![Billiam.png](/img/user/Assets/Billiam.png)
 ## Abilities
 - Teleportation for up to 80 meters
 - slight reality warping allowing them to create small objects most of the time food.
