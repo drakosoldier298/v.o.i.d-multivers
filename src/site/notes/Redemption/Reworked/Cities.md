@@ -27,10 +27,13 @@ Kyrenthia
 	-  Something is clearly wrong here
 - Rinthnei
 	 An ancient abandoned Kingdom on the eastern side of Kyrenthia, 
-	- An abandoned Kingdom East of kyrenthia
-	- Chunks of the kingdom have been drug into the sky by a massive tree
-	- Some say you can still hear the cries of somone who lost their love one in this kingdom
-	- Rumors say the tree was one of the god's lovers
+	 Great battles once took place here with graves Still littering the outsides of the walls.
+	 Most of the kingdom is held up by a massive tree spanning 600ft up
+	 
+	 On one of the branches about 100FT up is a large island holding a Altar Covered in flowers, Gold, Silver and Jewelry. This is Rumored to be an alter to a god's Long lost lover who once resided in this kingdom.  
+
+	 On occasion that god [[Jae\|Jae]] can be heard sobbing, or just talking to the altar, as if having conversations.
+
 Morona
 - Nrinth 
 	- Said nurr inthh
