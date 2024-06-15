@@ -17,7 +17,9 @@ These creatures are created when someone accidently or purposefully destroys the
 - anywhere from 1 to 10 feet tall.
 
 ### Example  
-###### Meet Billiam ![Billiam.png](/img/user/Assets/Billiam.png)
+###### Meet Billiam 
+
+![Billiam.png](/img/user/Assets/Billiam.png)
 ## Abilities
 - Teleportation for up to 80 meters
 - slight reality warping allowing them to create small objects most of the time food.
