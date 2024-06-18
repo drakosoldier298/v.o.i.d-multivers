@@ -7,9 +7,9 @@
   
   
 ## Old ones
-- [[Universes/Old ones/Characters/Daedreus Old ones\|Daedreus Old ones]]
+- [[Universes/Old ones/Rework/Characters/Daedreus Old ones\|Daedreus Old ones]]
 - [[Antiquor Old ones\|Antiquor Old ones]]
-- [[Universes/Old ones/Characters/Kamma\|Kamma]]
+- [[Universes/Old ones/Rework/Characters/Kamma\|Kamma]]
   
 ## Fallen order  
 - [[Antiquor Fallen Order\|Antiquor Fallen Order]]
