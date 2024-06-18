@@ -1,51 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/universes/external/characters/v-o-i-d-collective/","created":"2024-06-11T11:19:28.519-05:00","updated":"2024-06-11T17:52:11.227-05:00"}
+{"dg-publish":true,"permalink":"/universes/external/characters/v-o-i-d-collective/","created":"2024-06-11T11:19:28.519-05:00","updated":"2024-06-18T15:07:07.752-05:00"}
 ---
 
 Welcome to the V.O.I.D Collective index and explanation
-
-  
-
-# Outside multiverse explanation.
-
-The void collective outside of the multiverse is a real thing.
-
-  
-
-it is not the same as it is in universe
-
-  
-
- Irl It is the actually a few different things.
- 
- The writers and creators of this multiverse, Including all characters and references.
-IT is also the name of a Content creation group. Of the same members.
-
-
-So the current list of active member's are
-
-  
-
-- Daedreus/Xaeleus
-
-- Mekrath/merith.tk
-
-- Antiquor - Semi active.
-
--  Leukos
-
-- KraxyKun
-
-- KathyaClawthorne.   
-
-Inactive members list.
-
-- Dj_squishy/Danglesvt - Has elected to opt out of writing by blocking the  entire original team in 2022, However before leaving gave permission to continue use of their character in my writing. **Has no affiliation with the content creation group** 
-
-  
-
-# In multiverse
-
   
 
 ### The quick explanation
