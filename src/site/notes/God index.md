@@ -3,5 +3,5 @@
 ---
 
 - [[Void\|Void]]
-- [[V.O.I.D\|V.O.I.D]]
+- [[Universes/External/Characters/V.O.I.D\|V.O.I.D]]
 - 
