@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/universes/old-ones/rework/characters/daedreus-old-ones/","created":"2024-06-13T15:03:31.832-05:00","updated":"2024-06-13T15:16:54.374-05:00"}
+{"dg-publish":true,"permalink":"/universes/old-ones/rework/characters/daedreus-old-ones/","created":"2024-06-13T15:03:31.832-05:00","updated":"2024-06-18T21:13:54.505-05:00"}
 ---
 
 The first concept character of this multiverse.
@@ -34,7 +34,7 @@ Ok to preface this, the origins for this character ahs changed like 12 times so 
 
 As a child he grew up in poverty, family only able to afford just enough food to feed him and his siblings, His parents were neglectful btu fulfilled everything required of them, At age 13 He chose to start researching magic, He learned how to create fire to keep the family warm in the winter and grow crops without fertilizer, 
 
-He couldnt profit off this so around age 15 he left his family in search of what people called "[[Universes/External/The end\|The end]]" a dimension of infinite riches, the way to get to it was lost to time, He spent a few years researching dimensional teleportation and gathering the materials required, 
+He couldnt profit off this so around age 15 he left his family in search of what people called "[[Universes/External/Void/The end\|Universes/External/Void/The end]]" a dimension of infinite riches, the way to get to it was lost to time, He spent a few years researching dimensional teleportation and gathering the materials required, 
 
 Finally at age 18 he manages to actually make it to The end, But it was a one way trip, He was stuck there for years learning from the native creatures what to eat and how to live since there was no light his skin grew pale and his hair lightened. 
 
