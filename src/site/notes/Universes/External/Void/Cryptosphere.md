@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/universes/external/void/cryptosphere/","created":"2024-06-18T14:51:16.857-05:00","updated":"2024-06-18T21:11:54.227-05:00"}
+{"dg-publish":true,"permalink":"/universes/external/void/cryptosphere/","created":"2024-06-26T10:37:42.668-08:00","updated":"2024-06-18T18:11:54.227-08:00"}
 ---
 
 Rewritten By Daedreus, This dimension was originally created by [Suki kodo](https://twitter.com/SukiKodo) Due to decisions, I was given permission to rewrite this as long as i remove anything about Suki Kodos characters.

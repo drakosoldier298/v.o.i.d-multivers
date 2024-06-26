@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/universes/external/void/in-between/","created":"2024-06-13T15:07:20.817-05:00","updated":"2024-06-13T15:08:58.318-05:00"}
+{"dg-publish":true,"permalink":"/universes/external/void/in-between/","created":"2024-06-26T10:37:42.619-08:00","updated":"2024-06-13T12:08:58.318-08:00"}
 ---
 
 This is the first concept of a dimension and is what i referred to as the void for the longest time.

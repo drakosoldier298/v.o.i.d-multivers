@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/universes/external/external-universes-index/","created":"2024-06-18T21:13:33.868-05:00","updated":"2024-06-18T21:21:24.790-05:00"}
+{"dg-publish":true,"permalink":"/universes/external/external-universes-index/","created":"2024-06-26T10:37:42.699-08:00","updated":"2024-06-18T18:21:24.790-08:00"}
 ---
 
 # Characters

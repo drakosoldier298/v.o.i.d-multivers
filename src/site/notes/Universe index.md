@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/universe-index/","created":"2024-06-11T11:16:26.860-05:00","updated":"2024-06-25T20:49:42.789-05:00"}
+{"dg-publish":true,"permalink":"/universe-index/","created":"2024-06-26T10:37:42.622-08:00","updated":"2024-06-25T17:49:42.789-08:00"}
 ---
 
 [[Universes/Old ones/Old ones index\|Old ones index]]

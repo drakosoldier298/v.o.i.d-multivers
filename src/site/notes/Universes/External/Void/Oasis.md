@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/universes/external/void/oasis/","created":"2024-06-18T15:05:15.249-05:00","updated":"2024-06-18T21:01:22.032-05:00"}
+{"dg-publish":true,"permalink":"/universes/external/void/oasis/","created":"2024-06-26T10:37:42.693-08:00","updated":"2024-06-18T18:01:22.032-08:00"}
 ---
 
 ## Looks

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/universes/old-ones/the-nether/","created":"2024-06-18T14:43:34.003-05:00","updated":"2024-06-18T14:53:39.982-05:00"}
+{"dg-publish":true,"permalink":"/universes/old-ones/the-nether/","created":"2024-06-26T10:37:42.489-08:00","updated":"2024-06-18T11:53:39.982-08:00"}
 ---
 
 - # Creation

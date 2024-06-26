@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/universes/old-ones/gods/","created":"2024-06-14T20:46:08.022-05:00","updated":"2024-06-18T14:38:28.569-05:00"}
+{"dg-publish":true,"permalink":"/universes/old-ones/gods/","created":"2024-06-26T10:37:42.600-08:00","updated":"2024-06-18T11:38:28.569-08:00"}
 ---
 
 The Gods

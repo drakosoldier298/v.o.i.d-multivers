@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/welcome/","tags":["gardenEntry"],"created":"2024-06-09T20:36:20.124-05:00","updated":"2024-06-13T17:48:31.085-05:00"}
+{"dg-publish":true,"permalink":"/welcome/","tags":["gardenEntry"],"created":"2024-06-26T10:37:42.790-08:00","updated":"2024-06-13T14:48:31.085-08:00"}
 ---
 
 ## Welcome to a collection stories, notes, and other things for the V.O.I.D Collective Multiverse
