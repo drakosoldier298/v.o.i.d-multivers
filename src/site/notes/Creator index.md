@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/creator-index/","created":"2024-06-26T10:37:42.723-08:00","updated":"2024-06-18T12:11:58.639-08:00"}
+{"dg-publish":true,"permalink":"/creator-index/","created":"2024-07-03T21:05:41.030-05:00","updated":"2024-06-28T12:41:34.000-05:00"}
 ---
 
 The void collective outside of the multiverse is a real thing.
@@ -16,7 +16,7 @@ So the current list of active member's are
 
   
 
-- [Daedreus/Xaeleus](daedreus.com) - The creator of the website, and 90% of the documentation
+- [Daedreus/Xaeleus](https://daedreus.com) - The creator of the website, and 90% of the documentation
 
 - Mekrath/merith.tk - creator of anything Mekrath or Meka related
 

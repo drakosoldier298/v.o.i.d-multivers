@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/universes/old-ones/original-notes/","created":"2024-06-26T10:37:42.530-08:00","updated":"2024-06-18T11:53:27.895-08:00"}
+{"dg-publish":true,"permalink":"/universes/old-ones/original-notes/","created":"2024-07-03T21:05:41.064-05:00","updated":"2024-06-18T14:53:28.000-05:00"}
 ---
 
 

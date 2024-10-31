@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/universes/external/characters/v-o-i-d-collective/","created":"2024-06-26T10:37:42.656-08:00","updated":"2024-06-18T12:07:07.752-08:00"}
+{"dg-publish":true,"permalink":"/universes/external/characters/v-o-i-d-collective/","created":"2024-07-03T21:05:41.049-05:00","updated":"2024-06-18T15:07:08.000-05:00"}
 ---
 
 Welcome to the V.O.I.D Collective index and explanation

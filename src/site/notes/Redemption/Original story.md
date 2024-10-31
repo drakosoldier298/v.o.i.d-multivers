@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/redemption/original-story/","created":"2024-06-26T10:37:42.657-08:00","updated":"2024-06-13T14:30:42.179-08:00"}
+{"dg-publish":true,"permalink":"/redemption/original-story/","created":"2024-07-03T21:05:41.038-05:00","updated":"2024-06-13T17:30:44.000-05:00"}
 ---
 
 The original ideas for the story was to have a world Where the gods fell from grace due to unknown means and were forced to live among the mortal world as they had lost access to the divine realm.  

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/universes/old-ones/the-mainland/","created":"2024-06-26T10:37:42.735-08:00","updated":"2024-06-18T11:53:36.169-08:00"}
+{"dg-publish":true,"permalink":"/universes/old-ones/the-mainland/","created":"2024-07-03T21:05:41.072-05:00","updated":"2024-06-18T14:53:38.000-05:00"}
 ---
 
 - # Towns, Economy

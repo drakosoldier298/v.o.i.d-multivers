@@ -1,4 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/xaeleus-world/ascended-humanity/","created":"2024-06-26T10:37:42.527-08:00","updated":"2024-06-25T17:50:00.512-08:00"}
+{"dg-publish":true,"permalink":"/xaeleus-world/ascended-humanity/","created":"2024-07-03T21:05:41.087-05:00","updated":"2024-06-25T20:50:02.000-05:00"}
 ---
 

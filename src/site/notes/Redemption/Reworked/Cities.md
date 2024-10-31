@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/redemption/reworked/cities/","created":"2024-06-26T10:37:42.632-08:00","updated":"2024-06-18T09:00:20.581-08:00"}
+{"dg-publish":true,"permalink":"/redemption/reworked/cities/","created":"2024-07-03T21:05:41.041-05:00","updated":"2024-06-18T12:00:22.000-05:00"}
 ---
 
 Kyrenthia

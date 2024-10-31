@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/universes/external/characters/v-o-i-d/","created":"2024-06-26T10:37:42.797-08:00","updated":"2024-06-11T14:52:13.788-08:00"}
+{"dg-publish":true,"permalink":"/universes/external/characters/v-o-i-d/","created":"2024-07-03T21:05:41.050-05:00","updated":"2024-06-28T12:53:26.000-05:00"}
 ---
 
  Visualization Of Infinite Destinies.

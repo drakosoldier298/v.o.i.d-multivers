@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/universes/old-ones/the-end/","created":"2024-06-26T10:37:42.514-08:00","updated":"2024-06-18T11:53:25.153-08:00"}
+{"dg-publish":true,"permalink":"/universes/old-ones/the-end/","created":"2024-07-03T21:05:41.071-05:00","updated":"2024-06-18T14:53:26.000-05:00"}
 ---
 
 - # The Elytarian Shulk War

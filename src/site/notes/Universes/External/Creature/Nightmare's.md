@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/universes/external/creature/nightmare-s/","created":"2024-06-26T10:37:42.503-08:00","updated":"2024-06-15T09:26:35.562-08:00"}
+{"dg-publish":true,"permalink":"/universes/external/creature/nightmare-s/","created":"2024-07-03T21:05:41.052-05:00","updated":"2024-06-15T12:26:36.000-05:00"}
 ---
 
 
